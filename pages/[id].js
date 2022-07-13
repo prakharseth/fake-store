@@ -1,8 +1,10 @@
 import Layout from "../components/Layout";
 import Navbar from "../components/Navbar";
 import { BsStarFill } from "react-icons/bs";
+// import { data } from "./data";
 
 export default function Product({ data }) {
+// export default function Product() {
   console.log(data);
   return (
     <Layout>
