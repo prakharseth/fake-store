@@ -1,4 +1,4 @@
-import { BiSearchAlt } from "react-icons/Bi";
+import { BiSearchAlt } from "react-icons/bi";
 export default function Search({ searchValue }) {
   return (
     <div className='border border-gray-600 rounded-lg flex items-center justify-center w-96'>

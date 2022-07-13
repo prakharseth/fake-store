@@ -1,4 +1,3 @@
-import { BiSearchAlt } from "react-icons/Bi";
 import Search from "./Search";
 export default function Navbar({ search, searchValue }) {
   return (
